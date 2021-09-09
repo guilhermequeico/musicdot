@@ -1,5 +1,9 @@
 .cabecalho {
     text-align: center;
-    background-color: #2D5377;
+    font-size: 0.6rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.23em;
     color: #FFF;
+    background-color: #2D5377;
 }
