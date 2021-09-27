@@ -1,0 +1,127 @@
+.planos {
+    background-image: url(../img/planos-background-mobile.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 1.8rem;
+
+    display: grid;
+    justify-items: center;
+    position: relative;
+}
+
+.planos::before {
+    content: "";
+    width: 81%;
+    height: .1rem;
+    background-color: #E93D50;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.planos__titulo {
+    font-size: .85rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+.planos__card {
+    background-color: #F76148;
+    border-radius: 8px;
+    margin-bottom: 1.3rem;
+    color: #FFF;
+    padding: 4rem 1rem 1rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    box-shadow: 0 0 .8rem 1rem rgba(0, 0, 0, .2);
+    background-repeat: no-repeat;
+    background-size: 1.7rem;
+    background-position: top 1.5rem center;
+}
+
+.card--anual {
+    background-image: url(../img/simbolo-musidot-branco.svg);
+}
+
+.card--semestral {
+    background-image: url(../img/simbolo-musidot-dark.svg);
+}
+
+.plano__titulo {
+    margin: 8px 0;
+}
+
+.planos__card p + p {
+    font-weight: 300;
+    margin-top: .2rem;
+    letter-spacing: 1.5px;
+}
+
+.plano__titulo, .plano__titulo + p {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.valor--destaque {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.card__acesso {
+    font-weight: 500;
+}
+
+.cards__botao {
+    color: #F76148;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    font-weight: 600;
+    border-radius: 8px;
+    margin-top: .8rem;
+    padding: 1rem 2rem;
+    background-color: #FFF;
+    box-shadow: 0 0 .8rem .1rem rgba(0, 0, 0, .2);
+}
+
+.card--anual {
+    position: relative;
+    z-index: 2;
+}
+
+.plano--destaque {
+    color: #F76148;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
+    width: 8rem;
+    padding: .4rem 0 .8rem;
+    border-radius: 5px;
+    box-shadow: 0 0 .8rem .05rem rgba(0, 0, 0, .2);
+    background-color: #FFF;
+
+    position: absolute;
+    z-index: 1;
+
+    transform: translate(-50%, -65%);
+}
+
+.card--anual p + p, .card--semestral p + p {
+    margin-bottom: 1rem;
+}
+
+.planos > p {
+    width: 250px;
+    font-size: .6rem;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.planos a {
+    font-weight: 700; 
+}
