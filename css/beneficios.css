@@ -46,3 +46,53 @@
 .beneficio__texto {
     line-height: 1rem;
 }
+
+@media (min-width: 768px) {
+    .beneficios {
+        margin-bottom: 3.7rem;
+    }
+
+    .beneficios__lista {
+        display: grid;
+        grid-template-columns: 17.5rem 17.5rem;
+        gap: 1rem;
+    }
+
+    .beneficios__titulo {
+        margin-bottom: 1rem;
+    }
+
+    .beneficio__titulo {
+        font-size: 1.1rem;
+    }
+
+    .beneficio__texto {
+        font-size: .8rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .beneficios__titulo {
+        font-size: 1.3rem;
+    }
+
+    .beneficios__lista {
+        grid-template-columns: 22.5rem 22.5rem;
+        gap: 1.3rem;
+    }
+
+    .beneficios__lista li {
+        padding-top: 7.25rem;
+        background-size: 6rem 6rem;
+    }
+
+    .beneficio__titulo {
+        font-size: 1.2rem;
+        margin-bottom: .6rem;
+    }
+
+    .beneficio__texto {
+        font-size: .9rem;
+        line-height: 1.2rem;
+    }
+}
