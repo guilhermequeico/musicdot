@@ -30,4 +30,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Musicdot é um site de cursos online de música. Este site foi desenvolvido com o apoio da apostila da <a href="https://www.caelum.com.br/apostilas">Caelum</a>.
+Musicdot é uma plataforma de cursos online de instrumentos musicais e canto.<a href="https://www.caelum.com.br/apostilas">Caelum</a>.
