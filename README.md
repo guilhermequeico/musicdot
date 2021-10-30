@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="MusicDot" src=".github/musicdot.png" width="100%" style="border-radius: 4px;">
+  <img alt="MusicDot" src=".github/musicdot.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,3 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
+## 💻 Projeto
+
+Musicdot é um site de cursos online de música. Este site foi desenvolvido com o apoio da apostila da <a href="https://www.caelum.com.br/apostilas">Caelum</a>.
