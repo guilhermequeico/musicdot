@@ -19,7 +19,9 @@
 
 <p align="center">
   <img alt="MusicDot" src=".github/musicdot.png" width="100%">
+  <img alt="MusicDot Mobile" src=".github/musicdot-mobile.png">
 </p>
+
 
 ## 🚀 Tecnologias
 
