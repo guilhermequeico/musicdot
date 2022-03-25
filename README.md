@@ -43,7 +43,7 @@ Para fazer o download da apostila acesse [Caelum](https://www.caelum.com.br/apos
 
 Quer dar uma olhadinha de como ficou?
 
-Acesse: [MusicDot](guilhermequeico.github.io/musicdot/)
+Acesse: [MusicDot](https://guilhermequeico.github.io/musicdot/)
 
 ## 🚀 Como executar
 
