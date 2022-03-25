@@ -40,7 +40,7 @@ Para fazer o download da apostila acesse [Caelum](https://www.caelum.com.br/apos
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/gqueico/musicdot.git
+$ git clone https://github.com/guilhermequeico/musicdot.git
 $ cd musicdot
 ```
 Agora é só abrir o arquivo <i>index.html</i> em seu navegador de preferência.
