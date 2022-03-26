@@ -61,13 +61,3 @@ Agora é só abrir o arquivo <i>index.html</i> em seu navegador de preferência.
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-Feito com 💜 by Guilherme Costa :wave:
-
-Vamos nos conectar?
-
-<a href="https://linkedin.com/in/gqueico" target="_blank">
-  <img src="https://img.shields.io/badge/-gqueico-000000?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
-[![Gmail Badge](https://img.shields.io/badge/-gqueico@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gqueicof@gmail.com)](mailto:gqueico@gmail.com)
