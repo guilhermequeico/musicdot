@@ -41,7 +41,7 @@ Para fazer o download da apostila acesse [Caelum](https://www.caelum.com.br/apos
 
 ## 🧐 Demo
 
-Quer dar uma olhadinha de como ficou?
+Quer dar uma olhadinha como ficou o projeto?
 
 Acesse: [MusicDot](https://guilhermequeico.github.io/musicdot/)
 
